@@ -1,5 +1,5 @@
 _repo: Narrative-of-the-Life-of-Frederick-Douglass-an-American-Slave_23
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: Benjy Brooke, 2015
   cover_type: original
@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '34510'
     url: http://www.gutenberg.org/2009/agents/34510
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Douglass
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23#Narrative-of-the-Life-of-Frederick-Douglass-an-American-Slave
 gutenberg_bookshelf:
 - Slavery
 - African American Writers
